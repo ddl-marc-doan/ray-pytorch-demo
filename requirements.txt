@@ -1,0 +1,9 @@
+torch
+torchvision
+torchmetrics
+pytorch_lightning
+lightning-bolts
+matplotlib==3.7.1
+numpy==1.23.3
+ray==2.9.3
+setuptools
